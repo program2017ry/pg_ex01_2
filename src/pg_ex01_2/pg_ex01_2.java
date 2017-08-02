@@ -2,7 +2,6 @@ package pg_ex01_2;
 
 public class pg_ex01_2 {
 	public static void main(String[] args) {
-		change(1);
 	}
 	public static void change(int x) {
 		if ((x >= 1) && (x <= 20)) {
